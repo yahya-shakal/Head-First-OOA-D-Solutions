@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1786065387 source:d:\cpp projects\dogdoor\main.cpp
+	<iostream>
+	"DogDoor.h"
+	"Remote.h"
+	"BarkRecognizer.h"
+
+1785943234 source:d:\cpp projects\dogdoor\remote.cpp
+	<iostream>
+	<thread>
+	<chrono>
+	"Remote.h"
+
+1785942832 d:\cpp projects\dogdoor\remote.h
+	"DogDoor.h"
+
+1786065722 d:\cpp projects\dogdoor\dogdoor.h
+	<vector>
+	"Bark.h"
+
+1786065687 source:d:\cpp projects\dogdoor\barkrecognizer.cpp
+	<iostream>
+	"BarkRecognizer.h"
+
+1786064262 d:\cpp projects\dogdoor\barkrecognizer.h
+	<string>
+	"DogDoor.h"
+
+1786064262 d:\cpp projects\dogdoor\bark.h
+	<string>
+
